@@ -75,6 +75,20 @@ That's it. No external dependencies.
 - **Claude Code** (Pro, Team, or Enterprise) — <https://claude.com/product/claude-code>
 - A git repository (recommended for persistence across machines)
 
+## 🛠 Related Tools
+
+社員ゼロでAI経営する小規模法人・個人事業主向けの実装ノウハウを公開しています:
+
+### 受け取り請求書PDFを Google Drive 標準OCRで全自動管理(GAS実装)
+
+PDFを Drive に置くだけで自動でリネーム・整理・期日リマインドする実装。
+完全コード(Code.gs + index.html Webアプリ) + セットアップ手順 + 運用1年で踏んだ罠と対策。
+**外部API完全不要・運用コスト¥0/月**:
+
+📝 [社員ゼロ社長の月末請求書地獄を10分で終わらせるGAS実装(note記事)](https://note.com/shiro_tools/n/n7816a8ff1860)
+
+---
+
 ## License
 
 MIT — use in any project (personal, commercial, client work). Attribution appreciated.
